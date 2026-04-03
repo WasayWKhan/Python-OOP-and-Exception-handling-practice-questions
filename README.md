@@ -26,6 +26,7 @@ outputs.md → Output results
 
 ```bash
 python oop_tasks.py
+```
 
 ## 📌Author
 Wasay Khan
